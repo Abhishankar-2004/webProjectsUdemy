@@ -1,0 +1,26 @@
+# Ignore system files and folders
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and editor folders
+.vscode/
+.idea/
+*.swp
+
+# Ignore Python, Node, and other environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+.env
+
+# Ignore cache and logs
+.cache/
+*.log
+
+# Ignore extensions and plugin folders
+.cursor/
+
+# Ignore Zencoder folder
+.zencoder/
